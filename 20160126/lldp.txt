@@ -1,0 +1,19 @@
+switch# show lldp neighbors interface ethernet 1/49 detail 
+Capability codes:
+  (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+  (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+Device ID            Local Intf      Hold-time  Capability  Port ID  
+ 
+Chassis id: c08c.6095.ad85
+Port id: Eth3/14
+Local Port id: Eth1/49
+Port Description: ## to R14-TOR eth1/49 10.1.9.6 ##
+System Name: nx7009-ds21c
+System Description: Cisco Nexus Operating System (NX-OS) Software 6.2(2a)
+TAC support: http://www.cisco.com/tac
+Copyright (c) 2002-2013, Cisco Syst
+Time remaining: 110 seconds
+System Capabilities: B, R
+Enabled Capabilities: B, R
+Management Address: c08c.6095.ad85
+Vlan ID: not advertised
