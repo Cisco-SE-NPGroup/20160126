@@ -1,7 +1,0 @@
-configure terminal
-hostname  R14-TOR
-interface eth1/49
-ip address 10.1.9.6 255.255.255.0
-interface eth1/49
-description "## to  nx7009-ds21c  Eth3/14 ##"
-ip route 0.0.0.0 0.0.0.0 10.1.9.5
